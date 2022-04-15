@@ -3,16 +3,16 @@
 Build: mimikatz 2.2.0 (x64) #19041 Aug 10 2021 02:01:23<br>
 
 ## Bypass Known Firms:
-
-Microsoft Defender and AMSI
-Symantec 
-McAfee
-Kaspersky
-F-Secure 
-Bitdefender 
-DrWeb 
-TrendMicro
-ETC...
+<br>
+Microsoft Defender and AMSI<br>
+Symantec <br>
+McAfee<br>
+Kaspersky<br>
+F-Secure <br>
+Bitdefender <br>
+DrWeb <br>
+TrendMicro<br>
+ETC...<br>
 
 ## Cheats Cmdlets
 
