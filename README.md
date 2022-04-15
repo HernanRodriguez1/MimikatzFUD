@@ -1,4 +1,4 @@
-# Mimikatz 2.2.0 Powershell FUD
+# Mimikatz Powershell FUD
 
 Build: mimikatz 2.2.0 (x64) #19041 Aug 10 2021 02:01:23<br>
 
