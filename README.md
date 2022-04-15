@@ -1,6 +1,7 @@
 # Mimikatz Powershell FUD
 
 Build: mimikatz 2.2.0 (x64) #19041 Aug 10 2021 02:01:23<br>
+Tested: 10.0.22000 N/D Compilación 22000
 
 ## Bypass Known Firms:
 <br>
