@@ -30,3 +30,5 @@ https://kleenscan.com/scan_result/9e112a4718f6522c80c206e1a052d471e650b23e46c89a
 
 ![image](https://user-images.githubusercontent.com/66162160/163596951-061b9965-3524-439a-b81a-9a4fe932d4b0.png)
 
+
+# !!! NO UPLOAD VIRUS TOTAL !!!
