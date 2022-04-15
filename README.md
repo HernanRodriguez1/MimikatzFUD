@@ -23,6 +23,9 @@ DumpCreds == Dump
 
 ![2022-04-15_11-30](https://user-images.githubusercontent.com/66162160/163596735-e60f6223-7345-457b-bcda-790b3ecf3081.png)
 
+![6cb5b485-da73-4571-bb95-36692f8c4c3d](https://user-images.githubusercontent.com/66162160/163624261-e5edaa4c-8ca0-43fc-871d-1c524936d6b4.jpeg)
+
+
 
 ## virus signature analysis
 
